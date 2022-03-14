@@ -14,10 +14,20 @@
     --height-card: 510px;
 }
 
-
 body {
     background-color: var(--light-gray);
     font-family: "Outfit", sans-serif;
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
 }
 
 .card {
@@ -26,11 +36,6 @@ body {
     height: var(--height-card);
     padding: 15px;
     border-radius: 20px;
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    margin-left: calc(var(--width-card)/ -2);
-    margin-top: calc(var(--height-card)/ -2);;
     text-align: center;
 }
 
