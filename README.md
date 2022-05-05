@@ -29,10 +29,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 - Semantic HTML5 markup
 - CSS
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Shkotsky](https://www.frontendmentor.io/profile/Shkotsky)
+- LinkedIn - [@Marko](https://www.linkedin.com/in/marko-hristovski-77b9a6149/)
